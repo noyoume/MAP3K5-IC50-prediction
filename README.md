@@ -1,32 +1,47 @@
 
 
-[배경]
-AI 신약개발 생태계 활성화와 AI 신약 개발 젊은 연구원들의 의욕 고취 및 인재 유입을 위해 
+# Score
 
-'Jump AI 2025 : 제 3회 AI 신약개발 경진대회'를 개최합니다.
+<img width="1788" height="1232" alt="image" src="https://github.com/user-attachments/assets/fe199002-8c49-4f43-aa84-202eed4fc4bf" />
+https://dacon.io/competitions/official/236530/overview/description
 
 
-
-[주제]
-MAP3K5 IC50 활성값 예측 모델 개발
+# Subject
 
 
 
-[설명]
-PubChem, ChEMBL, CAS 등에서 수집한 실험 기반 화합물 정보를 기반으로 IC50값 예측모델 개발
 
-127종 화합물의 구조 정보를 입력값으로 사용하여 해당 화합물들의 ASK1에 대한 IC50 값을 예측하여 제출
+# Data
 
 
+# Model
 
-[주최 / 주관 / 운영]
-주최/주관 : 한국제약바이오협회
-후원 : 보건복지부, 유한양행, CAS
-운영 : 데이콘
+# Summary
 
 
-[참가 대상]
-전국민 누구나
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
